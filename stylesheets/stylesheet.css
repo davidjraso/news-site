@@ -21,6 +21,7 @@ body {
 .box-main {
   float: center;
   width: 98.5%;
+  margin-top: 100px;
   margin-right: 1.5%;
   margin-bottom: 100px;
 }
