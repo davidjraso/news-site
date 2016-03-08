@@ -20,9 +20,9 @@ body {
 
 .box-main {
   float: center;
-  width: 98.5%;
+  width: 100%;
   margin-top: 100px;
-  margin-right: 1.5%;
+  margin-right: 0%;
   margin-bottom: 100px;
 }
 
