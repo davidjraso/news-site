@@ -30,12 +30,24 @@ h1 small {
   font-size: .6em;
 }
 
+.box-main {
+  background-color: #eee;
+  border: 1px solid #999;
+  width: 400px;
+  margin: 20px 0;
+  padding: 20px;
+}
+
 .box {
   background-color: #eee;
   border: 1px solid #999;
   width: 400px;
   margin: 20px 0;
   padding: 20px;
+}
+
+.box-main a.read-more{
+  text-decoration: underline;
 }
 
 .box a.read-more {
