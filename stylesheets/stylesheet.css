@@ -43,7 +43,15 @@ body {
 .box h2 {
 }
 
+.box-main img {
+  width: 100%;
+}
+
 .box img {
+  width: 100%;
+}
+
+.box-third img {
   width: 100%;
 }
 
