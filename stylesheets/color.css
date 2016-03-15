@@ -63,6 +63,10 @@ h1 small {
   text-decoration: underline;
 }
 
+.box-third a.read-more {
+  text-decoration: underline;
+}
+
 .footer {
   background-color: #999;
   color: #fff;
