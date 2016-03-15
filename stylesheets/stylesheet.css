@@ -63,7 +63,8 @@ body {
 
 
 .footer {
-  position: fixed;
+ /* position: fixed;*/
+  float: bottom;
   bottom: 0;
   left: 0;
   border-top: 2px solid #eee;
