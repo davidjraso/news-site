@@ -47,8 +47,12 @@ h1 small {
   padding: 20px;
 }
 
-.box:last-child {
-  margin-right: 0;
+.box-third {
+  background-color: #eee;
+  border: 1px solid #999;
+  width: 32%;
+  margin-right: 0%;
+  padding: 20px;
 }
 
 .box-main a.read-more{
