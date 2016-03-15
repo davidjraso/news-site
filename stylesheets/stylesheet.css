@@ -33,8 +33,11 @@ body {
   margin-bottom: 100px;
 }
 
-.box:last-child {
-  margin-right: 0;
+.box-third {
+  float: left;
+  width: 32%;
+  margin-right: 0%;
+  margin-bottom: 100px;
 }
 
 .box h2 {
