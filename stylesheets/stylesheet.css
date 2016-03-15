@@ -24,7 +24,6 @@ body {
   margin-top: 100px;
   margin-right: 0%;
   margin-bottom: 100px;
-  position: relative;
 }
 
 .box {
@@ -32,7 +31,6 @@ body {
   width: 32%;
   margin-right: 2%;
   margin-bottom: 25px;
-  position: relative;
 }
 
 .box-third {
@@ -40,7 +38,6 @@ body {
   width: 32%;
   margin-right: 0%;
   margin-bottom: 25px;
-  position: relative;
 }
 
 .box h2 {
@@ -66,10 +63,9 @@ body {
 
 
 .footer {
-  position: absolute;
   bottom: 0;
   left: 0;
   border-top: 2px solid #eee;
-  padding: 0 20px;
+  /*padding: 0 20px;*/
   width: 100%;
 }
