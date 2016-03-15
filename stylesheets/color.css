@@ -42,9 +42,13 @@ h1 small {
 .box {
   background-color: #eee;
   border: 1px solid #999;
-  width: 33%;
+  width: 32%;
   margin-right: 2%;
   padding: 20px;
+}
+
+.box:last-child {
+  margin-right: 0;
 }
 
 .box-main a.read-more{
