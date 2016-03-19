@@ -22,11 +22,12 @@ a:hover {
 }
 
 .heading {
-  background-color: #800000;
+  background-color: #800000
+  color: #fff;
 }
 
 h1 small {
-  color: #333;
+  color: #fff;
   font-size: .6em;
 }
 
