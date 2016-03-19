@@ -22,7 +22,10 @@ a:hover {
 }
 
 .heading {
-  background-color: #800000
+  background-color: #800000;
+}
+
+h1 {
   color: #fff;
 }
 
