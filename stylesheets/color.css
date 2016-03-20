@@ -72,7 +72,7 @@ h1 small {
 }
 
 .footer {
-  background-color: #6699ff;
-  color: #fff;
+  background-color: #ccc;
+  /*color: #fff;*/
   font-style: italic;
 }
