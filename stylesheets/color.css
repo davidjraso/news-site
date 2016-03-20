@@ -34,6 +34,10 @@ h1 small {
   font-size: .6em;
 }
 
+h2 {
+  color: #fff;
+}
+
 .box-main {
   background-color: #eee;
   border: 1px solid #999;
