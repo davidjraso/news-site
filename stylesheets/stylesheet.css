@@ -3,6 +3,7 @@
 
 body {
   padding-top: 80px;
+  margin-top: 50px;
 }
 
 .heading {
@@ -21,7 +22,7 @@ body {
 .box-main {
   float: center;
   width: 100%;
-  margin-top: 50px;
+  margin-top: 10px;
   margin-right: 0%;
   margin-bottom: 100px;
 }
